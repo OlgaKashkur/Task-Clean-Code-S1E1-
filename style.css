@@ -13,9 +13,9 @@ body {
 .start-ifo img {
   width: 100%;
 }
-.more-inf {
+/*.more-inf {
   font-family: fantasy, cursive;
-}
+}*/
 
 @media (max-width:768px) {
 .start-ifo { 
@@ -133,7 +133,7 @@ li > input[type="text"] {
 }
 
 /* Completed */
-#completed-tasks label {
+.completed-tasks label {
   text-decoration: line-through;
   color: #888;
 }
