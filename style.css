@@ -18,8 +18,9 @@ body {
 }
 
 @media (max-width:768px) {
-.start-ifo { text-align: center;
-}
+.start-ifo { 
+  text-align: center;
+  }
 }
 .centered-element {
   display: block;
